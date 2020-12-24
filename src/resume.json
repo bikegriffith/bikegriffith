@@ -1,0 +1,223 @@
+{
+  "basics": {
+    "picture": "images/headshot.jpg",
+    "heroTitles": [
+      ["the", "Director of Engineering @ BoxCast"],
+      ["the", "Dad of 3 Awesome Kids"],
+      ["a", "Coach (Sports & Work)"],
+      ["a", "Cyclist (mountain, road, dirt, CX)"],
+      ["a", "Maker"],
+      ["a", "Tinkerer"],
+      ["a", "Cloud Engineer"],
+      ["an", "Application Developer"],
+      ["a", "Designer"],
+      ["a", "Leader"]
+    ],
+    "x_title": "Engineer • Designer • Tinkerer • Coach • Leader",
+    "summary": "Full-stack software engineer with a passion for design. I love lean teams that ship amazing hardware+software products. We solve hard problems, build apps on multiple device platforms, dive deep into data, and continually refine the way we work.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "michaeldgriffith",
+        "url": "https://www.linkedin.com/in/michaeldgriffith",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "bikegriffith",
+        "url": "https://github.com/bikegriffith",
+        "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Medium",
+        "username": "bikegriffith",
+        "url": "https://medium.com/@bikegriffith",
+        "x_icon": "fab fa-2x fa-medium"
+      },
+      {
+        "network": "Twitter",
+        "username": "bikegriffith",
+        "url": "https://twitter.com/bikegriffith",
+        "x_icon":"fab fa-2x fa-twitter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BoxCast",
+      "position": "Director of Engineering",
+      "website": "https://www.boxcast.com",
+      "startDate": "2015-12-01",
+      "endDate": "",
+      "summary": "Wearer of many hats @ BoxCast on our &#128640; to the &#127769;. Building the world's simplest and most powerful live video platform for organizations, starting with a combined hardware+software offering.  We build incredible video encoders, a complete microservice-based cloud video pipeline (AWS + Golang + C + Ruby), applications for broadcasters, and great viewer experiences on web, mobile, and TV.",
+      "highlights": []
+    },
+    {
+      "company": "Vertical Knowledge",
+      "position": "Lead Web Developer / Team Lead / Manager",
+      "website": "https://vk.ai/",
+      "startDate": "2015-04-01",
+      "endDate": "2015-12-01",
+      "summary": "Served in player-coach capacity while managing a team of 5 engineers (and some interns) on our web product development efforts (Python, Angular, React). Successfully launched and iterated on multiple products. Obtained DoD Top Secret Clearance.",
+      "highlights": []
+    },
+    {
+      "company": "Explorys (IBM Watson Health)",
+      "position": "Sr Software Engineer",
+      "website": "https://www.ibm.com/watson-health/about/explorys",
+      "startDate": "2015-02-01",
+      "endDate": "2015-04-01",
+      "summary": "Wanted to use my love of data to help improve medicine and delivery of care. Worked on a brand new population management application and microservices (React+Ruby+Java). Left in the wake of the acquisition by IBM.",
+      "highlights": []
+    },
+    {
+      "company": "DRB Systems",
+      "position": "Lead Software Designer",
+      "website": "https://www.drbsystems.com/",
+      "startDate": "2011-12-01",
+      "endDate": "2015-02-01",
+      "summary": "Led all web and mobile efforts (design, architecture, development, devops) for this fascinating company that built hardware+software solutions for the car wash industry.  Launched and iterated on multiple new products including StatWatch, IndustryWatch, SmartCodes, and the TunnelWatch v4 overhaul (turning a legacy tunnel controller into a modern web app).",
+      "highlights": []
+    },
+    {
+      "company": "American Greetings Interactive",
+      "position": "Sr Web Developer",
+      "website": "https://www.americangreetings.com/",
+      "startDate": "2008-01-01",
+      "endDate": "2011-12-01",
+      "summary": "Fell in love with Python while working on a wide array of projects for various e-card and digital photo sites (including rewrite/migration of PhotoWorks). Got first hand experience planning for and managing extreme consumer traffic spikes during holidays.",
+      "highlights": []
+    },
+    {
+      "company": "Goodyear Tire & Rubber",
+      "position": "Web Applications Developer",
+      "website": "https://www.goodyear.com/",
+      "startDate": "2005-06-01",
+      "endDate": "2008-01-01",
+      "summary": "Learned a ton about scaling eCommerce web sites as a developer on the Tire-HQ web application (Java/J2EE), eventually taking ownership over multiple subsytems and leading numerous successful projects.",
+      "highlights": []
+    },
+    {
+      "company": "Case Western Reserve University",
+      "position": "B.S. Systems & Controls Engineering",
+      "website": "https://www.case.edu/",
+      "startDate": "2001-09-01",
+      "endDate": "2005-06-01",
+      "summary": "Pursued an engineering degree while working multiple jobs (programming, freelance web dev, bike shop mechanic, etc) and riding my bike a whole bunch.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Case Western Reserve University",
+      "area": "Systems and Controls Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2001-09-01",
+      "endDate": "2005-06-01",
+      "courses": [
+        "Computer Science",
+        "Controls Theory"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Containers",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
