@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 I’m the Director of Engineering @ <a href="https://www.boxcast.com" target="_blank">BoxCast</a>.
+- 🔭 I love tinkering with all things on the web, embedded devices, and anything that goes fast (code, rockets, RC, bicycles, you name it)
+- 📫 Reach me via email, bikegriffith@gmail.com
+
 <!--
 **bikegriffith/bikegriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

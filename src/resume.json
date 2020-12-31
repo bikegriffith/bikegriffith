@@ -13,7 +13,7 @@
       ["a", "Designer"],
       ["a", "Leader"]
     ],
-    "x_title": "Engineer • Designer • Tinkerer • Coach • Leader",
+    "slogan": "Engineer • Designer • Tinkerer • Coach • Leader",
     "summary": "Full-stack software engineer with a passion for design. I love lean teams that ship amazing hardware+software products. We solve hard problems, build apps on multiple device platforms, dive deep into data, and continually refine the way we work.",
     "profiles": [
       {
@@ -111,113 +111,23 @@
     {
       "institution": "Case Western Reserve University",
       "area": "Systems and Controls Engineering",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2001-09-01",
       "endDate": "2005-06-01",
       "courses": [
         "Computer Science",
-        "Controls Theory"
+        "Systems Engineering",
+        "Controls Engineering",
+        "Information Systems",
+        "Lots of Math",
+        "Autonomous Robotics"
       ]
     }
   ],
   "skills": [
-    {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Containers",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Infrastructure as Code",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Design Patterns",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "REST API",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Unit Testing",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MongoDB",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
-    }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent speaker"
-    },
-    {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
-    }
   ],
   "interests": [
-    {
-      "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
-    },
-    {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
-    },
-    {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
-    },
-    {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
-    }
   ]
 }
