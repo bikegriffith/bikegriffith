@@ -12,7 +12,7 @@ function TimelineItem(props) {
   return (
     <div className="timeline-item is-success">
       <div className="timeline-marker is-image is-32x32">
-        <img src="" alt="" />
+        <img src={'/images/' + props.icon} alt="" />
       </div>
       <div className="timeline-content">
         <p className="heading">{startFormatted} - {endFormatted}</p>

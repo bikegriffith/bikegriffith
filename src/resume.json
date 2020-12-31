@@ -50,7 +50,7 @@
       "startDate": "2015-12-01",
       "endDate": "",
       "summary": "Wearer of many hats @ BoxCast on our &#128640; to the &#127769;. Building the world's simplest and most powerful live video platform for organizations, starting with a combined hardware+software offering.  We build incredible video encoders, a complete microservice-based cloud video pipeline (AWS + Golang + C + Ruby), applications for broadcasters, and great viewer experiences on web, mobile, and TV.",
-      "highlights": []
+      "icon": "boxcast.jpg"
     },
     {
       "company": "Vertical Knowledge",
@@ -59,7 +59,7 @@
       "startDate": "2015-04-01",
       "endDate": "2015-12-01",
       "summary": "Served in player-coach capacity while managing a team of 5 engineers (and some interns) on our web product development efforts (Python, Angular, React). Successfully launched and iterated on multiple products. Obtained DoD Top Secret Clearance.",
-      "highlights": []
+      "icon": "vk.png"
     },
     {
       "company": "Explorys (IBM Watson Health)",
@@ -68,7 +68,7 @@
       "startDate": "2015-02-01",
       "endDate": "2015-04-01",
       "summary": "Wanted to use my love of data to help improve medicine and delivery of care. Worked on a brand new population management application and microservices (React+Ruby+Java). Left in the wake of the acquisition by IBM.",
-      "highlights": []
+      "icon": "explorys.png"
     },
     {
       "company": "DRB Systems",
@@ -77,7 +77,7 @@
       "startDate": "2011-12-01",
       "endDate": "2015-02-01",
       "summary": "Led all web and mobile efforts (design, architecture, development, devops) for this fascinating company that built hardware+software solutions for the car wash industry.  Launched and iterated on multiple new products including StatWatch, IndustryWatch, SmartCodes, and the TunnelWatch v4 overhaul (turning a legacy tunnel controller into a modern web app).",
-      "highlights": []
+      "icon": "drb.png"
     },
     {
       "company": "American Greetings Interactive",
@@ -86,7 +86,7 @@
       "startDate": "2008-01-01",
       "endDate": "2011-12-01",
       "summary": "Fell in love with Python while working on a wide array of projects for various e-card and digital photo sites (including rewrite/migration of PhotoWorks). Got first hand experience planning for and managing extreme consumer traffic spikes during holidays.",
-      "highlights": []
+      "icon": "agi.jpg"
     },
     {
       "company": "Goodyear Tire & Rubber",
@@ -95,7 +95,7 @@
       "startDate": "2005-06-01",
       "endDate": "2008-01-01",
       "summary": "Learned a ton about scaling eCommerce web sites as a developer on the Tire-HQ web application (Java/J2EE), eventually taking ownership over multiple subsytems and leading numerous successful projects.",
-      "highlights": []
+      "icon": "goodyear.jpg"
     },
     {
       "company": "Case Western Reserve University",
@@ -104,7 +104,7 @@
       "startDate": "2001-09-01",
       "endDate": "2005-06-01",
       "summary": "Pursued an engineering degree while working multiple jobs (programming, freelance web dev, bike shop mechanic, etc) and riding my bike a whole bunch.",
-      "highlights": []
+      "icon": "cwru.jpg"
     }
   ],
   "education": [
