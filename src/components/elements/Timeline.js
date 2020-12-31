@@ -4,7 +4,7 @@ import Resume from "../../resume.json";
 
 function Timeline() {
   const years = []
-  Resume.work.map(item => {
+  Resume.work.forEach(item => {
     const year = new Date(item.startDate).getFullYear();
     if (year && years.indexOf(year) < 0) {
       years.push(year);

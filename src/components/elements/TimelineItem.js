@@ -5,10 +5,10 @@ function TimelineItem(props) {
     month: "long",
     year: "numeric"
   })
-  const endFormatted = props.endDate && new Date(props.endDate).toLocaleString("en-US", {
+  const endFormatted = (props.endDate && new Date(props.endDate).toLocaleString("en-US", {
     month: "long",
     year: "numeric"
-  }) || 'PRESENT';
+  })) || 'PRESENT';
   return (
     <div className="timeline-item is-success">
       <div className="timeline-marker is-image is-32x32">
