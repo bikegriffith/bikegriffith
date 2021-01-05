@@ -16,9 +16,9 @@ function TimelineItem(props) {
       </div>
       <div className="timeline-content">
         <p className="heading">{startFormatted} - {endFormatted}</p>
+        <h1 className="title is-4" style={{marginBottom:10}}>{props.company}</h1>
         <p className="heading">{props.position}</p>
-        <h1 className="title is-4">{props.company}</h1>
-        <p style={{ maxWidth: "25em" }} dangerouslySetInnerHTML={{__html: props.summary}}></p>
+        <p dangerouslySetInnerHTML={{__html: props.summary}}></p>
       </div>
     </div>
   );
