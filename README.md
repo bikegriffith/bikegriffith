@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I’m the Director of Engineering @ <a href="https://www.boxcast.com" target="_blank">BoxCast</a>.
+- 😄 I work on the Engineering Team @ <a href="https://www.boxcast.com" target="_blank">BoxCast</a>, building our online video platform.
 - 🔭 I love tinkering with all things on the web, embedded devices, and anything that goes fast (code, rockets, RC, bicycles, you name it)
 - 📫 Reach me via email, bikegriffith@gmail.com
 
