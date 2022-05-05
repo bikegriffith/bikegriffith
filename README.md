@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 😄 I work on the Engineering Team @ <a href="https://www.boxcast.com" target="_blank">BoxCast</a>, building our online video platform.
+- 😄 I work on the Design Team as an Engineer @ <a href="https://www.stripe.com" target="_blank">Stripe</a>.
+- 🔐 Though I'm still developing every day, you probably won't see me as much on github.com anymore 🥹
 - 🔭 I love tinkering with all things on the web, embedded devices, and anything that goes fast (code, rockets, RC, bicycles, you name it)
 - 📫 Reach me via email, bikegriffith@gmail.com
 
