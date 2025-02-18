@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from "react";
-import NavBar from "./NavBar";
-import Resume from "../../resume.json";
+import React, { useEffect, useState } from 'react';
+import NavBar from './NavBar';
+import Resume from '../../resume.json';
 
 function Hero() {
   const [heroTitleIndex, setHeroTitleIndex] = useState(0);
@@ -26,10 +26,12 @@ function Hero() {
         <div className="container">
           <p className="subtitle is-5 has-text-weight-light">I'm {article}</p>
           <h1 className="title">{title}</h1>
-          <h2 className="subtitle">Building things with &#10084;&#65039; in Northeast Ohio</h2>
+          <h2 className="subtitle">
+            Building things with &#10084;&#65039; in Northeast Ohio
+          </h2>
         </div>
       </div>
-      <div className="hero-foot" style={{ paddingBottom: "20px" }}>
+      <div className="hero-foot" style={{ paddingBottom: '20px' }}>
         <div className="columns is-mobile">
           <div className="column"></div>
           {Resume.basics.profiles.map((value, index) => {

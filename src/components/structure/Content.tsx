@@ -1,5 +1,5 @@
-import React from "react";
-import Experience from "../sections/Experience";
+import React from 'react';
+import Experience from '../sections/Experience';
 
 function Content() {
   return (

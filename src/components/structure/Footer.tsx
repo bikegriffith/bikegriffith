@@ -1,5 +1,5 @@
-import React from "react";
-import Resume from "../../resume.json";
+import React from 'react';
+import Resume from '../../resume.json';
 
 function Footer() {
   return (
