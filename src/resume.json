@@ -2,7 +2,7 @@
   "basics": {
     "picture": "images/headshot.jpg",
     "heroTitles": [
-      ["the", "Director of Engineering @ BoxCast"],
+      ["a", "Staff Engineer @ Stripe"],
       ["the", "Dad of 3 Awesome Kids"],
       ["a", "Coach (Sports & Work)"],
       ["a", "Cyclist (mountain, road, dirt, CX)"],
@@ -44,11 +44,20 @@
   },
   "work": [
     {
+      "company": "Stripe",
+      "position": "Staff Engineer",
+      "website": "https://stripe.com",
+      "startDate": "2022-04-02",
+      "endDate": "",
+      "summary": "Tech Lead on the Web Presence and Platform team, working on tooling and infrastructure for stripe.com.",
+      "icon": "stripe.svg"
+    },
+    {
       "company": "BoxCast",
       "position": "Director of Engineering",
       "website": "https://www.boxcast.com",
       "startDate": "2015-12-01",
-      "endDate": "",
+      "endDate": "2022-04-02",
       "summary": "Wearer of many hats @ BoxCast on our &#128640;&nbsp; to the &#127769;. Building the world's simplest and most powerful live video platform for organizations, starting with a combined hardware+software offering.  We build incredible video encoders, a complete microservice-based cloud video pipeline (AWS + Golang + C + Ruby), applications for broadcasters, and great viewer experiences on web, mobile, and TV.",
       "icon": "boxcast.jpg"
     },
